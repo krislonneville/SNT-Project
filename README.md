@@ -6,8 +6,8 @@ Opzetten van een Multifunctional Raspberry Pi, te gebruiken als media toestel (K
 Ik was eigenlijk alles al aan het noteren / beweren op een sites.google.com site: https://sites.google.com/view/krislonneville
 
 Projec(ten) voor dit eindwerk zal ik hier opnoemen en telkens de link naar mijn google site opgeven.
-
-##MCZ Maestro pellet kachel
+### Projecten
+**MCZ Maestro pellet kachel**
 Om deze te besturen is er eigenlijk een goede app, die ik wel zal blijven gebruiken (alsook mijn gezin). Maar een tekortkoming, vind ik toch, is dat als de kachel in storing staat, we daar eigenlijk geen idee van hebben. We merken het als het kouder wordt natuurlijk.
 Doel 1: De gegevens van de pellet kachel op de (bestaande) Home Assitaaast plaatsen
 Doel 2: Een notificatie uit te sturen (onder welke vorm dan ook) als de kachel in fout staat (bvb. pellets op, aanzuig filter verstopt, ... -
