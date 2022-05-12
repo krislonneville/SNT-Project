@@ -65,7 +65,7 @@ Ik heb zonnepannelen, dus wil ik zo lang mogelijk de digitale meter buitenhouden
 
 Deze gaan ook worden geïntegreerd in de Home Assitant, en dan zien welke data daar kunnen uitkrijgen om slimmer met energie om te gaan.
 
-        https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/home-assitant/uitlezen-analoge-watermeter-met-esp32-cam-opencv
+        https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/home-assitant/uitlezen-analoge-energiemeter-met-esp32-cam-opencv
 
 
 **5. Zigbee integratie
