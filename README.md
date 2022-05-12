@@ -16,15 +16,20 @@ Voorafgaande stappen van het opzetten van mijn Raspberry pi (zie ik niet echt in
         https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/besturings-systeem-os
 
 - installatie van Node-RED
-
+        
         https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/node-red
         
 - installatie van Home Assitant (via Docker container)
 
-        https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/domotica-home-automation/home-assitant
+        https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/home-assitant
+        
+- backup en restore (PARAGON BACKUP & RECOVERY 17 CE)
+
+        https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/backup-en-restore
 
 
-### Nieuwe Projecten
+### Nieuwe Projecten in Home Assitant
+
 **1. MCZ Maestro pellet kachel**
 
 Om deze te besturen is er eigenlijk een goede app, die ik wel zal blijven gebruiken (alsook mijn gezin). Maar een tekortkoming, vind ik toch, is dat als de kachel in storing staat, we daar eigenlijk geen idee van hebben. We merken het als het kouder wordt natuurlijk.
@@ -35,17 +40,23 @@ Doel 3: Misschien zelfs de kachel al "resetten", wat eigenlijk inhoud om de Chro
 
 Op onderstaande url is de beschrijving van dit project.
 
-https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/varia-losse-projectencten/besturing-pellet-kachel
+https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/home-assitant/besturing-pellet-kachel
 
 **2. Roborock S3 **
 
 We hebben thuis ook een automatische stofzuig / dwijl robot die het zware werk van stopzuigen gedurende de nacht doet.
 
-Ik zou deze dus ook willen zien in de Home Assistant, en (na wat surf werk) de kaart zichtbaar maken.
+        https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/home-assitant/roborock-s6
 
 **3. Dobbelsteen **
 
 Ik heb een aantal 8x8 LED matrix devices. Hiermee zou ik willen een dobbelsteen maken (dus random het bovenste vlak van een dobbelsteen tonen: random van 1 - 6). Dit zal zeker in Python zijn. Lijkt mij gewoon een leuk project
+Verschillende projectjes hiermee gamaakt:
+        - Aftellen naar oudjaar/nieuwjaar
+        - dobbelsteen
+        - Simon zegt
+
+        https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/python/64-led-matrix-module
 
 
 **4. Stroom verbruik meeting, zonder de echte digitale meter.
@@ -54,15 +65,19 @@ Ik heb zonnepannelen, dus wil ik zo lang mogelijk de digitale meter buitenhouden
 
 Deze gaan ook worden geïntegreerd in de Home Assitant, en dan zien welke data daar kunnen uitkrijgen om slimmer met energie om te gaan.
 
+        https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/home-assitant/uitlezen-analoge-watermeter-met-esp32-cam-opencv
+
+
 **5. Zigbee integratie
 
-Plan is ook dat ik een Zigbee netwerk opzet, met een conbee II USB stick, maar zien we later wel hoe en wat (zeker temp. en schakel contacten).
+        https://sites.google.com/view/krislonneville/it-home/raspberry-pi/raspi-tv/home-assitant/universele-zigbee-router-conbee-ii
+
 
 **6. ESP8266 integraties
 
 Ik heb een aantal ESP8266 devices liggen waarmee ik ook wil leten spelen. Een project die ik hiermee zou willen doen is om regenwater put niveau te bekijken. Er zijn een 2 tal medestudenten die dit met de Raspberry Pi gaan doen, ik wil het proberen met een ESP8266 die dan zijn data "publiceerd" zodat de Raspberry Pi deze kan lezen en dus ook tonen en alarmen kan opzetten.
 
 
-Voila, dat is het plan hopelijk kan ik er een aantal dit trimester van realiseren, anders doe ik gewoon verder in deze enorm facinerende Raspberry Pi wereld.
+        https://sites.google.com/d/1yRiSQT30y7YpdVtNz_hqnuF_zs8mNWtF/p/1bOmTaKlJ6JAk-eUPPBCLYel6rSuqnXxg/edit
 
 
